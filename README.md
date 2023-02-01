@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gasca14" alt="gasca14" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://portafolio-alejandro-gasca.netlify.app](https://portafolio-alejandro-gasca.netlify.app)
+- 👨‍💻 All of my projects are available at <a href="https://portafolio-alejandro-gasca.netlify.app/" target="_blank" rel="noopener noreferrer">here:</a>
 
 - 💬 Ask me about **html,css,javascript,react,node**
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alejandro-gasca-loredo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alejandro-gasca-loredo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alejandro-gasca-loredo/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alejandro-gasca-loredo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
