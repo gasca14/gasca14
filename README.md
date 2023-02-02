@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gasca14" alt="gasca14" /></a> </p>
 
-- 👨‍💻 All of my projects are available at <a href="https://portafolio-alejandro-gasca.netlify.app/" target="_blank" rel="noopener noreferrer">here:</a>
+- 👨‍💻 My personal portfolio <a href="https://portafolio-alejandro-gasca.netlify.app/" target="_blank" rel="noopener noreferrer">here:</a>
 
 - 💬 Ask me about **html,css,javascript,react,node**
 
